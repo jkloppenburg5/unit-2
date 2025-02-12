@@ -1,1 +1,6 @@
 /*Add CSS styles here*/
+#mapid {
+    height: 400px; /* Set your desired height */
+    width: 100%;   /* Optional: Set the width to 100% of the parent container */
+  }
+  
