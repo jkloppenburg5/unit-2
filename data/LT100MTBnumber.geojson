@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 0,
+          "2018": 0,
+          "2019": 0,
+          "2020": 0,
+          "2021": 0,
+          "2022": 0,
+          "2023": 0,
+          "2024": 0,
+          "Checkpoint": "Start Line"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.291999, 39.248696]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 52,
+          "2018": 45,
+          "2019": 53,
+          "2020": 0,
+          "2021": 0,
+          "2022": 44,
+          "2023": 43,
+          "2024": 43,
+          "Checkpoint": "Carter Summit Out"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.405794, 39.283689]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 110,
+          "2018": 94,
+          "2019": 123,
+          "2020": 0,
+          "2021": 0,
+          "2022": 91,
+          "2023": 89,
+          "2024": 111,
+          "Checkpoint": "Powerline Out"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.38713, 39.240504]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 158,
+          "2018": 139,
+          "2019": 176,
+          "2020": 0,
+          "2021": 0,
+          "2022": 134,
+          "2023": 133,
+          "2024": 166,
+          "Checkpoint": "Singletrack Out"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.330707, 39.13254]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 179,
+          "2018": 160,
+          "2019": 197,
+          "2020": 0,
+          "2021": 0,
+          "2022": 151,
+          "2023": 150,
+          "2024": 195,
+          "Checkpoint": "Twin Lakes Out"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.303521, 39.076748]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 263,
+          "2018": 238,
+          "2019": 292,
+          "2020": 0,
+          "2021": 0,
+          "2022": 233,
+          "2023": 228,
+          "2024": 275,
+          "Checkpoint": "Goat Trail Out"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.348877, 39.039372]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 289,
+          "2018": 262,
+          "2019": 322,
+          "2020": 0,
+          "2021": 0,
+          "2022": 253,
+          "2023": 244,
+          "2024": 295,
+          "Checkpoint": "Columbine"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.364561, 39.03295]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 302,
+          "2018": 275,
+          "2019": 337,
+          "2020": 0,
+          "2021": 0,
+          "2022": 259,
+          "2023": 248,
+          "2024": 299,
+          "Checkpoint": "Goat Trail In"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.348877, 39.039372]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 327,
+          "2018": 299,
+          "2019": 364,
+          "2020": 0,
+          "2021": 0,
+          "2022": 290,
+          "2023": 278,
+          "2024": 330,
+          "Checkpoint": "Twin Lakes In"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.303521, 39.076748]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 419,
+          "2018": 383,
+          "2019": 464,
+          "2020": 0,
+          "2021": 0,
+          "2022": 376,
+          "2023": 350,
+          "2024": 409,
+          "Checkpoint": "Powerline In"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.38713, 39.240504]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 519,
+          "2018": 477,
+          "2019": 563,
+          "2020": 0,
+          "2021": 0,
+          "2022": 458,
+          "2023": 423,
+          "2024": 484,
+          "Checkpoint": "Carter Summit In"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.405794, 39.283689]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "2017": 579,
+          "2018": 533,
+          "2019": 628,
+          "2020": 0,
+          "2021": 0,
+          "2022": 505,
+          "2023": 472,
+          "2024": 532,
+          "Checkpoint": "Full Course"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.291999, 39.248696]
+        },
+        "id": 11
+      }
+    ]
+  }
+  

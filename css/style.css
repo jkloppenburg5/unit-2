@@ -1,6 +1,55 @@
 /*Add CSS styles here*/
 #mapid {
-    height: 400px; /* Set your desired height */
+    height: 800px; /* Set your desired height */
     width: 100%;   /* Optional: Set the width to 100% of the parent container */
+    display: inline-block;
   }
-  
+
+  .leaflet-popup-content p { 
+    margin: 0.2em 0;
+}
+
+
+#panel {  
+  width: 40%;  
+  padding: 15px;  
+  /* display: inline-block;   */
+  vertical-align: top;  
+  text-align: center;  
+  line-height: 42px;  
+  margin: 0 auto;  /* This centers the panel horizontally */
+}  
+
+
+.range-slider {  
+    width: 35%;  
+}  
+
+.step {  
+    width: 20%;  
+}  
+
+.step img {  
+    width: 100%;  
+}  
+
+#forward {  
+    float: right;  
+}  
+
+#reverse {  
+    float: left;  
+}
+
+
+h3 {
+  /* background-color: rgba(104, 126, 102, 0.85); */
+  color: rgb(14, 13, 13);  /* Optional: Adjust text color if necessary */
+  /* height: 50px; Set your desired height */
+  /* width: 70%;   */
+  /* padding: 30px;   */
+  /* display: inline-block;   */
+  /* vertical-align: middle;   */
+  text-align: center;  
+  /* line-height: 42px;  */
+}
