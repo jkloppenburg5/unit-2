@@ -125,32 +125,7 @@ function getData() {
             minValue = calculateMinValue(LT100MTBJSObject);
             // Call function to create proportional symbols
             createPropSymbols(LT100MTBJSObject);
-        });
-
-    // Load the second GeoJSON file (LT100track.geojson)
-    fetch("data/LT100track.geojson")
-        .then(function (response) {
-            return response.json();
         })
-        .then(function (LT100trackJSObject) {
-            // Add the second GeoJSON data (track) to the map
-            L.geoJson(LT100trackJSObject, {
-                style: function (feature) {
-                    return {
-                        color: "#0000FF", // Customize track line color (blue)
-                        weight: 3,         // Customize line weight
-                        opacity: 0.99       // Customize line opacity
-                    };
-                },
-                onEachFeature: function (feature, layer) {
-                    // Optional: Customize the popup content for the track feature
-                    layer.bindPopup('<h3>' + feature.properties.name + '</h3><p>' + feature.properties.description + '</p>');
-                }
-            }).addTo(mymap);
-        })
-        .catch(function (error) {
-            console.error("Error loading the LT100track.geojson file:", error);
-        });
 };
 
 // Wait for the HTML to be finished loading before adding anything to the map.
