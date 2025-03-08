@@ -1,10 +1,14 @@
 
-### **Title:** *Sptiaal Temporal Proportional Map of Duration to Each Checkpoint in the Leadville 100 MTB*
+### **Title:** *Spatial Temporal Proportional Map of Duration to Each Checkpoint in the Leadville 100 MTB*
 
 ### **Author:** Jonathan Kloppenburg
 
 ### **Dependencies:**
 * [Leaflet 1.6](https://leafletjs.com/reference-1.6.0.html)
+* [OpenStreetMap]("https://www.openstreetmap.org/copyright)
+* [OpenTopoMap](https://opentopomap.org)
+* [Stamen Maps](https://www.stamen.com/)
+* [Google Maps](https://www.Google.com/)
 
 ### **Code Version:**
 Last Updated: March 8, 2025
