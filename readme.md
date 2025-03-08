@@ -5,7 +5,7 @@
 
 ### **Dependencies:**
 * [Leaflet 1.6](https://leafletjs.com/reference-1.6.0.html)
-* [OpenStreetMap]("https://www.openstreetmap.org/copyright)
+* [OpenStreetMap](https://www.openstreetmap.org/)
 * [OpenTopoMap](https://opentopomap.org)
 * [Stamen Maps](https://www.stamen.com/)
 * [Google Maps](https://www.Google.com/)
