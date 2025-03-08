@@ -14,4 +14,4 @@
 Last Updated: March 8, 2025
 
 ### **Description:**
-This interactive proportional symbol map, built using Leaflet, proportionally visualizes duration to difference milestones, for one mountain bike rider in the Leadville 100 from 2017-2014.
+This interactive proportional symbol map, built using Leaflet, proportionally visualizes duration to different milestones, for one mountain bike participant in the Leadville 100 from 2017-2014.
